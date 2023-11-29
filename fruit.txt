@@ -1,2 +1,3 @@
 This is new repo
-Adding new line in the repo.
+Adding new line in the repository.
+There is a movie called "Titanic" which became famouas in 90's.
